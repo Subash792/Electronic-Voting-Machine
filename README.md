@@ -1,5 +1,5 @@
 # EVM
-An Electronic Voting Machine with Biometric Authentication
+An Electronic Voting Machine with Biometric Authentication.
 
 Pre-requisites
 1) Proteus 1.8.13 software
