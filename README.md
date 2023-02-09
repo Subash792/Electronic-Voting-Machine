@@ -38,7 +38,7 @@ The project was successful in designing an electronic voting machine that utiliz
 2) Download the Keypad Library by Mark Stanley, Alexander Brevig and store it in the same directory of the proteus file
 
 ## Steps to run the code
-1) Download the EVM_TEAM-PROTONICS.pdsprj file and run it on the Proteus 1.8.13 profile
+1) Download the EVM_TEAM-PROTONICS.pdsprj file and run it on the Proteus 1.8.13 software
 
 ## Contact Us
 
