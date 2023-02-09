@@ -35,10 +35,10 @@ The electronic voting machine was tested by simulating the voting process using 
 The project was successful in designing an electronic voting machine that utilizes biometric data for voter verification. The use of fingerprints as a form of biometric data was found to be effective in ensuring that only eligible voters were able to cast their ballots. The electronic voting machine designed using Proteus software is secure, accurate, and easy to use. The breakthrough of the project is the usage of biometric data for voter verification, which ensures the voter's identity and prevent voter fraud.
 
 ## Flowchart
-![alt text](https://github.com/AdityaGuhagarkar/EVM/FLOWCHART.jpg?raw=true)
+[![](https://github.com/AdityaGuhagarkar/EVM/FLOWCHART.jpg)]
 
 ## Circuit Diagarm
-![alt text](https://github.com/AdityaGuhagarkar/EVM/Proteus.jpg?raw=true)
+[![](https://github.com/AdityaGuhagarkar/EVM/Proteus.jpg)]
 
 ## Installations
 1) Install the Proteus 1.8.13 software
