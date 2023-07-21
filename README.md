@@ -29,7 +29,7 @@ The project was successful in designing an electronic voting machine that utiliz
 </p>
 
 ## Circuit Diagarm
-![Alt text](Proteus.jpg)
+![Alt text](./Proteus.jpg)
 
 ## Installations
 1) Install the Proteus 1.8.13 software
