@@ -29,9 +29,7 @@ The project was successful in designing an electronic voting machine that utiliz
 </p>
 
 ## Circuit Diagarm
-<p align="center">
-  <img src="https://github.com/AdityaGuhagarkar/EVM/blob/main/Proteus.jpg" width="350" title="">
-</p>
+![Alt text](Proteus.jpg)
 
 ## Installations
 1) Install the Proteus 1.8.13 software
